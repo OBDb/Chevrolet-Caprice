@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Chevrolet_Caprice"
+
+generations:
+  - name: "Caprice PPV (WN)"
+    start_year: 2011
+    end_year: 2017
+    description: "The police sedan built in Australia on the Holden Statesman's Zeta platform, with the 3.6 L V6 and 6.0 L V8."
